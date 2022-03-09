@@ -8,4 +8,4 @@ A thorough examination of Airbnb data from the last couple of years.
 Python Queens group project consisting of members; Evelyn, Elena, Racquel and Reina.
 
 
-"C:\Users\racqu\OneDrive\Pictures\Tableau screenshots\New york and north carolina.png"
+(C:\Users\racqu\OneDrive\Pictures\Tableau screenshots\New york and north carolina.png)
