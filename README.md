@@ -7,5 +7,5 @@ A thorough examination of Airbnb data from the last couple of years.
 
 Python Queens group project consisting of members; Evelyn, Elena, Racquel and Reina.
 
+![new orleans room type](https://user-images.githubusercontent.com/90482942/157372610-306eed47-b8ed-4ebd-b64b-10b20799b28b.png)
 
-(C:\Users\racqu\OneDrive\Pictures\Tableau screenshots\New york and north carolina.png)
