@@ -5,14 +5,63 @@ Final Project DSO110!!!
 
 A thorough examination of Airbnb data from the last couple of years.
 
-Python Queens group project consisting of members; Evelyn, Elena, Racquel and Reina.
+Final Project for Entity Academy / Woz-U Data Science curriculum.
 
-![new orleans room type](https://user-images.githubusercontent.com/90482942/157372610-306eed47-b8ed-4ebd-b64b-10b20799b28b.png)
+Phase 1: Planning
 
-![New york and north carolina aval](https://user-images.githubusercontent.com/90482942/157373005-71af48cf-9a15-4efa-a001-ef75590c723a.png)
+All data used was found through a google search and input into python.
 
-![New york and north carolina](https://user-images.githubusercontent.com/90482942/157373026-dac6e5fa-b392-4f8c-8bd6-96a5f2e93f20.png)
+Cities Examined:
+Austin
+Boston
+Chicago
+Denver
+Los Angeles
+Nashville
+North Carolina
+New Orleans
+New York
+Portland
+Seattle
 
-![New york neighboorhood against price and avaliabilty g](https://user-images.githubusercontent.com/90482942/157373048-faf02d44-2f04-43fd-9272-0e259858def5.png)
+![image](https://user-images.githubusercontent.com/77132001/160274667-edae69b8-eb09-4728-b94e-61b72f5770f1.png)
 
-![new orleans neighborhood](https://user-images.githubusercontent.com/90482942/157373122-465e47fe-c685-4403-8c64-c4937a9956ac.png)
+Data variables:
+Name
+Neighbourhood
+Latitude
+Longitude
+Room Type
+Price
+Minimum Nights
+Number of Reviews
+Year-round Availability
+
+Phase 2: Data Wrangling
+
+Wrangled data with python for analysis and exploration.
+
+Wranged Data Python code files:
+Wrangled Python Codes
+https://github.com/KingPalma13/Python-Queens/tree/faeb6589f0bdb1d302ffc68deae147add361d87a/Data%20Wrangling%20Phase/Wrangled%20Cities%202.0/Wrangled%20Python%20Codes
+
+Phase 3: Exploratory Analysis
+Exploratory phase performed various analyses and visuals for purpose of exploring data.
+
+Exploratory Notebook:
+Exploratory Phase
+https://github.com/KingPalma13/Python-Queens/tree/faeb6589f0bdb1d302ffc68deae147add361d87a/Exploratory%20Phase
+
+Phase 4: Data Analysis
+Several tests were used to analyze data.
+
+Data Analysis Python Code:
+Analysis Phase
+https://github.com/KingPalma13/Python-Queens/tree/faeb6589f0bdb1d302ffc68deae147add361d87a/Analysis%20Phase
+
+Phase 5: Visualization
+Visuals were created using Python and R.
+
+Final Presentation
+(Presented March 23, 2022)
+Project presented on Zoom to Woz-U/Entity Academy instructor and mentor.
