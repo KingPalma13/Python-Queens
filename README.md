@@ -1,5 +1,4 @@
-# Python-Queens
-Final Project DSO110!!!
+A Python-Queens Project
 
 ![airbnbpic](https://user-images.githubusercontent.com/77132001/155603094-4f239f61-fb96-4f92-868b-2cf1ff5a6943.jpg)
 
