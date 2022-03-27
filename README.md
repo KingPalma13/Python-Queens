@@ -69,6 +69,6 @@ Visuals were created using Python and R.
 
 (Presented March 23, 2022)
 
-**[Python-Queens Powerpoint Presentation]**(https://github.com/KingPalma13/Python-Queens/blob/main/PQ%20Airbnb%20Presentation.pptx)
+[Python-Queens Powerpoint Presentation](https://github.com/KingPalma13/Python-Queens/blob/main/PQ%20Airbnb%20Presentation.pptx)
 
 Project presented on Zoom to Woz-U/Entity Academy instructor and mentor.
